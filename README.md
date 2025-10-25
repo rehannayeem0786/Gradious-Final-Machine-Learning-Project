@@ -11,3 +11,16 @@ The project is structured to reflect the core ML pipeline:
 - Model Evaluation – comparing performance with metrics and visualizations
 - Insights & Future Work – interpreting results and suggesting improvements
 This workflow mirrors real‑world ML projects, ensuring reproducibility, clarity, and scalability.
+
+# Dataset
+- File: automobile_performance.csv
+- Target Variable: fuel_efficiency (continuous)
+- Features:
+- engine_config → categorical (number of cylinders)
+- engine_volume → numeric (engine displacement)
+- power_output → numeric (horsepower)
+- vehicle_mass → numeric (weight of vehicle)
+- accel_capability → numeric (acceleration time)
+- release_year → numeric (year of release)
+- manufacture_region → categorical (region code)
+
