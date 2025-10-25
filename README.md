@@ -15,7 +15,7 @@ This workflow mirrors real‑world ML projects, ensuring reproducibility, clarit
 # Dataset
 - File: automobile_performance.csv
 - Target Variable: fuel_efficiency (continuous)
-- Features:
+#Features
 - engine_config → categorical (number of cylinders)
 - engine_volume → numeric (engine displacement)
 - power_output → numeric (horsepower)
