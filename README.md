@@ -1,7 +1,7 @@
 # Gradious-Final-Machine-Learning-Project
 
-🚗 Automobile Performance ML Project
-📌 Project Overview
+🚗 Automobile Performance ML Project.
+📌 Project Overview.
 This project demonstrates a complete end‑to‑end Machine Learning workflow using an automobile performance dataset.
 The primary objective is to predict fuel efficiency of vehicles based on their engine, design, and manufacturing attributes.
 The project is structured to reflect the core ML pipeline:
